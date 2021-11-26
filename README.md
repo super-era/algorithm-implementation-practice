@@ -5,3 +5,4 @@ Here, I practice implementing a number of algorithms from scratch.
 
 - binary search
 - binary search with self-implemented sort
+- quicksort with sort superclass
